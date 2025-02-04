@@ -1,3 +1,10 @@
+# Author: Pusker 
+# Email: propuskerworks@gmail.com
+# Date: 2021-08-15
+# Version: 1.0.0
+
+
+
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 #region Configuration
